@@ -57,7 +57,7 @@
 - 安裝 PHP 伺服器 (如 **XAMPP**)
 - 確保 MySQL 伺服器正在運行
 
-### **2️⃣ 克隆專案**
+### **2️⃣ Clone**
 ```bash
 git clone https://github.com/your-repo/Digital-Art-Walk.git
 cd Digital-Art-Walk
